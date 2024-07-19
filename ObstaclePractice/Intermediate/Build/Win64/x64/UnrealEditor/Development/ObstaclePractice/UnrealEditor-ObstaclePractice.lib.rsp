@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ObstaclePractice.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"P:\Repos\UE_Practice_ObstacleCourse\ObstaclePractice\Intermediate\Build\Win64\x64\ObstaclePracticeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"P:\Repos\UE_Practice_ObstacleCourse\ObstaclePractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstaclePractice\MovingPlatform.gen.cpp.obj"
+"P:\Repos\UE_Practice_ObstacleCourse\ObstaclePractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstaclePractice\ObstaclePractice.init.gen.cpp.obj"
+"P:\Repos\UE_Practice_ObstacleCourse\ObstaclePractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstaclePractice\MovingPlatform.cpp.obj"
+"P:\Repos\UE_Practice_ObstacleCourse\ObstaclePractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstaclePractice\ObstaclePractice.cpp.obj"
+"P:\Repos\UE_Practice_ObstacleCourse\ObstaclePractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstaclePractice\Default.rc2.res"
+/OUT:"P:\Repos\UE_Practice_ObstacleCourse\ObstaclePractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstaclePractice\UnrealEditor-ObstaclePractice.lib"

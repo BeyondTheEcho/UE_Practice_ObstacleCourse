@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"P:\\Repos\\UE_Practice_ObstacleCourse\\ObstaclePractice\\Source\\ObstaclePractice\\ObstaclePractice.Build.cs",
+		"P:\\Repos\\UE_Practice_ObstacleCourse\\ObstaclePractice\\Source\\ObstaclePractice.Target.cs",
+		"P:\\Repos\\UE_Practice_ObstacleCourse\\ObstaclePractice\\Source\\ObstaclePracticeEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}

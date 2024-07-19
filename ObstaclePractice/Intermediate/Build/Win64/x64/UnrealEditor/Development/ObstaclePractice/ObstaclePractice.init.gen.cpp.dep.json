@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "p:\\repos\\ue_practice_obstaclecourse\\obstaclepractice\\intermediate\\build\\win64\\unrealeditor\\inc\\obstaclepractice\\uht\\obstaclepractice.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "p:\\repos\\ue_practice_obstaclecourse\\obstaclepractice\\intermediate\\build\\win64\\x64\\obstaclepracticeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "p:\\repos\\ue_practice_obstaclecourse\\obstaclepractice\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstaclepractice\\definitions.obstaclepractice.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
